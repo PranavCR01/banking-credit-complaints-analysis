@@ -1,2 +1,58 @@
-# banking-credit-complaints-analysis
-Interactive Power BI and Tableau dashboards and insights from CFPB complaint data, uncovering patterns in banking and credit card issues across states, banks, and demographics.
+# 📊 Banking & Credit Card Complaints Analysis
+
+This project analyzes customer complaints in the banking and credit card sectors using real-world data from the **Consumer Financial Protection Bureau (CFPB)**. We built interactive dashboards in **Power BI** to uncover root causes, regional trends, and opportunities for improved service delivery.
+
+---
+
+## 📁 Project Structure
+
+
+---
+
+## 🔍 Objective
+
+- Analyze CFPB complaint data to uncover systemic inefficiencies.
+- Identify demographic and geographic patterns in complaints.
+- Compare service performance across major banks.
+- Provide data-driven recommendations for resolving issues faster and improving customer satisfaction.
+
+---
+
+## 📈 Visual Insights
+
+Power BI dashboards cover:
+- Gender- and job-based credit behavior
+- Housing and loan repayment trends
+- Resolution times by bank and complaint type
+- Geographic hotspots of customer issues
+
+Screenshots are included in `/screenshots` and the full dashboards are in `/dashboards`.
+
+---
+
+## 📘 Report
+
+The full methodology, data cleaning process, dashboard insights, and recommendations can be found in the [report/IS525_Project_Report.pdf](report/IS525_Project_Report.pdf).
+
+---
+
+## 🛠️ Tools Used
+
+- **Power BI** for dashboard creation
+- **Python (ETL - optional)** for data cleaning and merging
+- **CFPB datasets** for real-world complaint data
+
+---
+
+## 👨‍💻 Contributors
+
+- Ankit Rajesh Sawant  
+- Neil Mehta  
+- Pranav Rajesh Charakondala  
+- Shobha Rani Ganapati Bhat  
+
+---
+
+## 📬 Contact
+
+Feel free to reach out to [Pranav CR](https://github.com/YOUR_USERNAME) for more details or collaboration ideas!

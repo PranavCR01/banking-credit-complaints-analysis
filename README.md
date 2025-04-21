@@ -59,15 +59,8 @@ Displays credit purpose patterns, average age and loan durations, job-wise credi
 
 ---
 
-## 👨‍💻 Contributors
-
-- Ankit Rajesh Sawant  
-- Neil Mehta  
-- Pranav Rajesh Charakondala  
-- Shobha Rani Ganapati Bhat  
-
 ---
 
 ## 📬 Contact
 
-Feel free to reach out to [Pranav CR](https://github.com/YOUR_USERNAME) for more details or collaboration ideas!
+Feel free to reach out to [Pranav Rajesh Charakondala](https://github.com/PranavCR01) for more details or collaboration ideas!

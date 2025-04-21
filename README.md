@@ -41,7 +41,7 @@ The full methodology, data cleaning process, dashboard insights, and recommendat
 
 Visualizes complaint distribution by company and resolution status, submission method by state, issue type proportions, and trends in resolution over the years.
 
-![Banking Complaint Analysis](Screenshots/1.1.jpg)
+![Banking Complaint Analysis](Screenshots/1.1.JPG)
 
 ---
 
@@ -49,13 +49,13 @@ Visualizes complaint distribution by company and resolution status, submission m
 
 Displays credit purpose patterns, average age and loan durations, job-wise credit trends, and housing status influence on borrowing behavior.
 
-![Credit Behavior Insights](Screenshots/3.1.jpg)
+![Credit Behavior Insights](Screenshots/3.1.JPG)
 
 ## 🛠️ Tools Used
 
-- **Power BI** for dashboard creation
-- **Python (ETL - optional)** for data cleaning and merging
-- **CFPB datasets** for real-world complaint data
+- **Tableau Prep** for data cleaning, transformation, and initial exploration
+- **Power BI** for dashboard creation and interactive visualizations
+- **CFPB datasets** for real-world complaint data involving banking and credit card services
 
 ---
 

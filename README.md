@@ -41,7 +41,7 @@ The full methodology, data cleaning process, dashboard insights, and recommendat
 
 Visualizes complaint distribution by company and resolution status, submission method by state, issue type proportions, and trends in resolution over the years.
 
-![Banking Complaint Analysis](Screenshots/1.1.png)
+![Banking Complaint Analysis](Screenshots/1.1.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ Visualizes complaint distribution by company and resolution status, submission m
 
 Displays credit purpose patterns, average age and loan durations, job-wise credit trends, and housing status influence on borrowing behavior.
 
-![Credit Behavior Insights](Screenshots/3.1.png)
+![Credit Behavior Insights](Screenshots/3.1.jpg)
 
 ## 🛠️ Tools Used
 

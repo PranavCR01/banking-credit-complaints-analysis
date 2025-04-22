@@ -5,7 +5,22 @@ This project analyzes customer complaints in the banking and credit card sectors
 ---
 
 ## 📁 Project Structure
-
+```
+banking-credit-complaints-analysis/
+│
+├── dashboards/
+│   ├── credit_banking_issues_overview_dashboard.pbix    # Power BI file: complaints by type, year, and channel
+│   └── credit_behavior_demographics_dashboard.pbix      # Power BI file: credit behavior by age, housing, job
+│
+├── screenshots/
+│   ├── banking_complaints_by_company_channel.png        # Screenshot of company-level dashboard
+│   └── credit_behavior_summary_dashboard.png            # Screenshot of credit demographics dashboard
+│
+├── report/
+│   └── IS525_Project_Report.pdf                         # Final project report (optional to include)
+│
+└── README.md
+```
 
 ---
 
